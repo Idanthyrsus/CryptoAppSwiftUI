@@ -1,6 +1,6 @@
 # CryptoAppSwiftUI
 
-This project is made using SwiftUI and Combine
+This project is made using SwiftUI, Combine and CoreData
 
 Architecture: MVVM
 
